@@ -97,7 +97,7 @@
         </Style>
         <Style x:Key="CairoExplorerSidebarSectionHeaderOpenText" TargetType="{x:Type TextBlock}">
             <Setter Property="Foreground" Value="White"/>
-            <Setter Property="FontFamily" Value="Segoe UI"/>
+            <Setter Property="FontFamily" Value="Microsoft YaHei"/>
             <Setter Property="FontSize" Value="12"/>
             <Setter Property="Padding" Value="5,5,0,0"/>
         </Style>
@@ -146,7 +146,7 @@
             <Setter Property="Foreground"
                 Value="#FFFFFFFF" />
             <Setter Property="FontFamily"
-                Value="Segoe UI" />
+                Value="Microsoft YaHei" />
             <Setter Property="FontSize"
                 Value="12" />
             <Setter Property="Padding"
@@ -164,7 +164,7 @@
             <Setter Property="Foreground"
                 Value="#FFFFFFFF" />
             <Setter Property="FontFamily"
-                Value="Segoe UI" />
+                Value="Microsoft YaHei" />
             <Setter Property="FontSize"
                 Value="12" />
             <Setter Property="Padding"
@@ -175,7 +175,7 @@
             <Setter Property="Foreground"
                 Value="#FFFFFFFF" />
             <Setter Property="FontFamily"
-                Value="Segoe UI" />
+                Value="Microsoft YaHei" />
             <Setter Property="FontSize"
                 Value="12" />
             <Setter Property="VerticalAlignment"
@@ -190,7 +190,7 @@
             <Setter Property="Height"
                 Value="25" />
             <Setter Property="FontFamily"
-                Value="Segoe UI" />
+                Value="Microsoft YaHei" />
             <Setter Property="FontSize"
                 Value="14" />
             <Setter Property="Foreground"
@@ -245,7 +245,7 @@
             <Setter Property="Height"
                 Value="25" />
             <Setter Property="FontFamily"
-                Value="Segoe UI" />
+                Value="Microsoft YaHei" />
             <Setter Property="FontSize"
                 Value="14" />
             <Setter Property="Foreground"
@@ -300,7 +300,7 @@
             <Setter Property="Height"
                 Value="25" />
             <Setter Property="FontFamily"
-                Value="Segoe UI" />
+                Value="Microsoft YaHei" />
             <Setter Property="FontSize"
                 Value="14" />
             <Setter Property="Foreground"
@@ -355,7 +355,7 @@
             <Setter Property="Height"
                 Value="25" />
             <Setter Property="FontFamily"
-                Value="Segoe UI" />
+                Value="Microsoft YaHei" />
             <Setter Property="FontSize"
                 Value="14" />
             <Setter Property="Foreground"
@@ -410,7 +410,7 @@
             <Setter Property="Height"
                 Value="30" />
             <Setter Property="FontFamily"
-                Value="Segoe UI" />
+                Value="Microsoft YaHei" />
             <Setter Property="FontSize"
                 Value="14" />
             <Setter Property="Foreground"
@@ -467,7 +467,7 @@
             <Setter Property="Width"
                 Value="150" />
             <Setter Property="FontFamily"
-                Value="Segoe UI" />
+                Value="Microsoft YaHei" />
             <Setter Property="FontSize"
                 Value="12" />
             <Setter Property="Foreground"
@@ -523,7 +523,7 @@
             <Setter Property="Width"
                 Value="23" />
             <Setter Property="FontFamily"
-                Value="Segoe UI" />
+                Value="Microsoft YaHei" />
             <Setter Property="FontSize"
                 Value="12" />
             <Setter Property="Foreground"
@@ -567,7 +567,7 @@
             x:Name="CairoMenuItemStyle"
             TargetType="{x:Type MenuItem}">
             <Setter Property="FontFamily"
-                Value="Segoe UI" />
+                Value="Microsoft YaHei" />
             <Setter Property="FontSize"
                 Value="12" />
             <Setter Property="Foreground"

@@ -25,7 +25,7 @@
             Style="{StaticResource CairoExplorerSidebar}">
                 <StackPanel Style="{StaticResource CairoExplorerSidebarSectionHeaderOpen}">
                     <TextBlock Foreground="White"
-                    FontFamily="Segoe UI"
+                    FontFamily="Microsoft YaHei"
                     FontSize="12"
                     Padding="5,5,0,0">Favorites</TextBlock>
                 </StackPanel>
@@ -40,13 +40,13 @@
                 </StackPanel>
                 <StackPanel Style="{StaticResource CairoExplorerSidebarSectionHeaderClosed}">
                     <TextBlock Foreground="White"
-                    FontFamily="Segoe UI"
+                    FontFamily="Microsoft YaHei"
                     FontSize="12"
                     Padding="5,5,0,0">Devices</TextBlock>
                 </StackPanel>
                 <StackPanel Style="{StaticResource CairoExplorerSidebarSectionHeaderClosed}">
                     <TextBlock Foreground="White"
-                    FontFamily="Segoe UI"
+                    FontFamily="Microsoft YaHei"
                     FontSize="12"
                     Padding="5,5,0,0">Shared</TextBlock>
                 </StackPanel>

@@ -46,7 +46,7 @@
         <Setter Property="Padding"
             Value="0,10,0,0" />
         <Setter Property="FontFamily"
-            Value="Corbel" />
+            Value="Microsoft YaHei" />
         <Setter Property="FontSize"
             Value="15" />
         <Setter Property="Height"
@@ -75,7 +75,7 @@
         <Setter Property="OverridesDefaultStyle"
             Value="true" />
         <Setter Property="FontFamily"
-            Value="Corbel" />
+            Value="Microsoft YaHei" />
         <Setter Property="FontSize"
             Value="14" />
         <Setter Property="MinWidth"
@@ -154,7 +154,7 @@
         <Setter Property="OverridesDefaultStyle"
             Value="true" />
         <Setter Property="FontFamily"
-            Value="Corbel" />
+            Value="Microsoft YaHei" />
         <Setter Property="FontSize"
             Value="14" />
         <Setter Property="MinWidth"
@@ -246,7 +246,7 @@
         <Setter Property="Padding"
             Value="4" />
         <Setter Property="FontFamily"
-            Value="Corbel" />
+            Value="Microsoft YaHei" />
         <Setter Property="FontSize"
             Value="13" />
         <Setter Property="Height"
@@ -260,7 +260,7 @@
     <Style x:Key="CategoryEditStyle"
         TargetType="TextBox">
         <Setter Property="FontFamily"
-            Value="Corbel" />
+            Value="Microsoft YaHei" />
         <Setter Property="FontSize"
             Value="15" />
         <Setter Property="FontWeight"
@@ -281,7 +281,7 @@
         <Setter Property="Cursor"
             Value="Arrow" />
         <Setter Property="FontFamily"
-            Value="Corbel" />
+            Value="Microsoft YaHei" />
         <Setter Property="FontSize"
             Value="15" />
         <Setter Property="FontWeight"
@@ -337,7 +337,7 @@
                         </Border>
                         <TextBlock DockPanel.Dock="Right" Text="{Binding Path=Name}"
                             Margin="4,0,0,0"
-                            FontFamily="Corbel"
+                            FontFamily="Microsoft YaHei"
                             FontSize="14"
                             TextTrimming="CharacterEllipsis" />
                     </DockPanel>
@@ -387,12 +387,12 @@
                         </Border>
                         <TextBlock DockPanel.Dock="Left" Text="{Binding Path=Name}"
                             Margin="4,0,0,0"
-                            FontFamily="Corbel"
+                            FontFamily="Microsoft YaHei"
                             FontSize="14"
                             TextTrimming="CharacterEllipsis" />
                         <TextBlock DockPanel.Dock="Right" Text="{Binding Path=PathDirectory}"
                             Margin="10,0,0,0"
-                            FontFamily="Corbel"
+                            FontFamily="Microsoft YaHei"
                             FontSize="10"
                             Foreground="#FF999999"
                             TextTrimming="CharacterEllipsis" TextAlignment="Right" VerticalAlignment="Center" />
